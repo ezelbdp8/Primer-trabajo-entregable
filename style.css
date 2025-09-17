@@ -1,0 +1,12 @@
+.custom-nav {
+  border-bottom: 5px solid rgb(235, 152, 0);
+  background-color: rgb(39, 39, 39);
+}
+.custom-footer {
+  border-top: 5px solid rgb(235, 152, 0);
+  background-color: rgb(39, 39, 39);
+}
+.linea-opaca {
+  opacity: 0.1;
+  margin: 1rem 0;
+}
